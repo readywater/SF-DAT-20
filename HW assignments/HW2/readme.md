@@ -38,7 +38,7 @@ Following these steps will help you better understand your dataset.
 
 | Deadline | Deliverable| Description |
 |:-:|---|---|
-| Lesson 5 | Project 2  | Exploratory Data Analysis   |
+| Lesson 6 | HW 2  | Exploratory Data Analysis   |
 
 ---
 
@@ -48,7 +48,7 @@ Your project will be assessed using the following standards:
 
 1. Parse the Data
 
-#### Rubric: [Click here for the complete rubric](./project2-rubric.md). 
+
 
 Requirements for these standards will be assessed using the scale below:
 
@@ -73,28 +73,10 @@ We'll be using the same dataset as UCLA's Logit Regression in R tutorial to expl
 - 'gpa' stands for Grade Point Average
 - 'rank' is the rank of an applicant's undergraduate alma mater, with 1 being the highest and 4 as the lowest
 
-Dataset: [Admissions.csv](./assets/admissions.csv)
 
 #### Starter code
 For this project we will be using an IPython notebook. This notebook will use matplotlib for plotting and visualizing our data. This type of visualization is handy for prototyping and quick data analysis. We will discuss more advanced data visualizations for disseminating your work.
 
-* Open the [starter code instructions](./starter-code/project2-starter.ipynb) in IPython notebook.
-
-#### Suggestions for Getting Started
-
-- Read in your dataset
-- Try out a few pandas commands for describing your data:
-  - '''df['dataframeName'].describe(),'''
-  - '''df['columnName'].sum(),'''
-  - ''df['columnName'].mean(),'''
-  - '''df['columnName'].count(),'''
-  - '''df['columnName'].skew(),'''
-  - '''df.corr()'''
-- **Read the docs for Pandas.** Most of the time, there is a tutorial that you can follow, but not always, and learning to read documentation is crucial to your success as a data scientist.
-
-#### Past Projects
-Look at some sample notebooks for an example of the types of visualizations you can use in your notebook.
-* [Example Notebook](https://github.com/justmarkham/DAT8/blob/master/notebooks/05_pandas_visualization.ipynb)
 
 #### Additional Links
 - [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable/)
