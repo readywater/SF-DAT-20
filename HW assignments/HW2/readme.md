@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #2: Exploratory Analysis
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) HW #2: Exploratory Analysis
 DS | Unit Project 2
 
 ### PROMPT
@@ -46,7 +46,7 @@ Following these steps will help you better understand your dataset.
 
 Your project will be assessed using the following standards:
 
-1. Parse the Data
+Parse the Data
 
 
 
