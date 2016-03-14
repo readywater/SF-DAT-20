@@ -95,6 +95,7 @@
 - [Decision Tree - Video - Part 1](https://www.youtube.com/watch?v=U-dYqlvafYA)
 - [Decision Tree - Video - Part 2](https://www.youtube.com/watch?v=6fopQt_ENeU)
 - [Decision Tree - Video - Part 3](https://www.youtube.com/watch?v=BaPmPEWxKu0)
+- [BootStrap - Video](https://www.youtube.com/watch?v=8bLsk1WXgDk)
  
 
 ## Lecture 13 Summary
