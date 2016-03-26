@@ -1,6 +1,6 @@
 # SF-DAT-20
 
-##Lecture 1 Summary
+##Lecture 1 Summary (Introduction on Data Science part I)
 
  - We talked about different roles of Data Scientists 
  - T-Shaped Data Scientists
@@ -11,18 +11,18 @@
  - set ipython notebook
  - Introduced Numpy
  	
-## Lecture 2 Summary
+## Lecture 2 Summary (Introduction on Data Science part II)
 - Classification vs Clustering and Regression vs Dimentionality Reduction
 - Flexibility vs Interpretability
 - Different types of data (Cross-Sectional, Time-Series, Panel Data) 
 - Walkthrough Acquire& Parses with Pandas
 - HW 1 assigned - Due date Feb 8th at 6:30PM
 
-## Lecture 3 Summary
+## Lecture 3 Summary (Basic Statistics - Review Session)
 - Measures of central tendency (Mean, Median, Mode, Quartiles, Percentiles)- Measures of Variability (IQR, Standard Deviation, Variance)- Skewness Coefficient - Kurtosis Coefficient- Boxplots- Bias vs Variance- Central Limit Theorem – Standard Error of Mean- Class/Dummy Variables
 - Walkthrough describing and visualizing data in Pandas
 
-## Lecture 4 Summary
+## Lecture 4 Summary (Linear Regression Lines - Part I)
 - Linear Regression lines
 - Single Variable and Multi-Variable Regression Lines
 - Capture non-linearity using Linear Regression lines.
@@ -31,14 +31,14 @@
 - intro on sklearn and searborn library
 - HW 2 assigned - Due date Feb 17th 2016 at 6:30PM
 
-## Lecture 5 Summary
+## Lecture 5 Summary (Linear Regression Lines - Part II)
 - Hypothesis test - test of significance on regression coefficients
 - p-value
 - Capture non-linearity using Linear Regression lines.
 - Different types of errors and R-squared
 - Interaction Effects
 	
-## Lecture 6 Summary
+## Lecture 6 Summary (Model Selection)
 
 - Bias-Variance Trade off
 - Validation (Test vs Train set)
@@ -46,7 +46,7 @@
 - Ridge and Lasso Regression
 - (Optional) Backward Selection, Forward Selection, All Subset Selection. (If you want to use these methods you need to use R)
 
-## Lecture 7 Summary
+## Lecture 7 Summary (Missing Data and Imputation)
 - Types of missing data (MCAR, MAR, NMAR)
 - Single imputation and their limitations
 - Imuptation using regression lines and error
@@ -54,7 +54,7 @@
 - multiple imputation
 
 
-## Lecture 8 Summary
+## Lecture 8 Summary (K-Nearest Neighbors)
 - Classification Problems
 - Misclassifciation Error
 - KNN algorithm for Classification
@@ -62,14 +62,14 @@
 - Limitations of KNN Algorithm
 - KNN algorithm for Regression
 
-## Lecture 9 Summary
+## Lecture 9 Summary (Logistic Regression Part I)
 - Intro to Logistic Regression
 - Odds vs Probability
 - Using Logistic Regression to Make predictions
 - How one interprets coefficients of Logistic Regression model
 - Strength and weaknesses of Logistic Regression Model
 
-## Lecture 10 Summary
+## Lecture 10 Summary (Logistic Regression Part II)
 - Unbalanced observations and Logistic Regression
 - FP/FN/TP/TN/FPR/TPR
 - The effect of chaning Threshold
@@ -77,14 +77,14 @@
 - Area Under Curve
 - How to compare classifciation algorithms
 
-## Lecture 11 Summary
+## Lecture 11 Summary (Decision Trees Part I)
 - Decision Tree for Regression
 - Greedy Approach
 - Decision Tree for Classification
 - Gini Index and Entropy index
 - Limitation of Simple Decision Tree
 
-## Lecture 12 Summary
+## Lecture 12 Summary (Decision Trees Part II)
 - Bagging
 - Random Forest
 - Boosting
@@ -98,7 +98,7 @@
 - [BootStrap - Video](https://www.youtube.com/watch?v=8bLsk1WXgDk)
  
 
-## Lecture 13 Summary
+## Lecture 13 Summary (Natural Language Processing)
 - Definition of Natural Language Processing 
 - NLP applications
 - Basic NLP practice
@@ -116,7 +116,7 @@
 * [Modern Methods for Sentiment Analysis](http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis) shows how "word vectors" can be used for more accurate sentiment analysis.
 * [Identifying Humorous Cartoon Captions](http://www.cs.huji.ac.il/~dshahaf/pHumor.pdf) is a readable paper about identifying funny captions submitted to the New Yorker Caption Contest.
 
-## Lecture 14 Summary
+## Lecture 14 Summary (Principal Component Analysis)
 
 - Principal Component Analysis
 - Computation of PCAs
@@ -129,7 +129,7 @@
 * To go deeper on Singular Value Decomposition, read [Kirk Baker's excellent tutorial](https://www.ling.ohio-state.edu/%7Ekbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf).
 * Chapter 10 of  [Statistical Learning with applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
 
-## Lecture 15 Summary
+## Lecture 15 Summary (Time Series Models)
 
 - AutoRegressive Models
 - Moving Averages
@@ -140,3 +140,21 @@
 
 * [This is a good resource](http://www.maths.qmul.ac.uk/~bb/TS_Chapter4_5.pdf) for AR models
 * [Seemingly easy to read book](http://www.statistik-mathematik.uni-wuerzburg.de/fileadmin/10040800/user_upload/time_series/the_book/2012-August-01-times.pdf) on time series. 
+
+## Lecture 16 Summary (Databases and SQL)
+
+* Talked about databases and data warehouse design.
+* Introduction to SQL and learn the Fundamental Growth Query.* Look at product engagement data of a fictional company and use FGQ to compute retention curves.* Apply convolution to the retention curve to project future active users.* Build a model to predict the retention likelihood of individual customers. 
+* **Thanks to Michael**
+
+
+
+**Additional Resources**
+
+* Well organized and easy to undestand [tutorials](shttp://www.w3schools.com/sql/default.asp) - Thanks to Catherine
+* More tutorials on [SQL](https://sqlschool.modeanalytics.com/the-basics/introduction/) - Thanks to Randy
+
+## Lecture 17 Summary (Naive Bayes)
+
+	** Pre-work **
+	Please review Bayes Questions. 
