@@ -151,10 +151,10 @@
 
 **Additional Resources**
 
-* Well organized and easy to undestand [tutorials](shttp://www.w3schools.com/sql/default.asp) - Thanks to Catherine
+* [Well organized and easy to undestand tutorials](http://www.w3schools.com/sql/default.asp) - Thanks to Catherine
 * More tutorials on [SQL](https://sqlschool.modeanalytics.com/the-basics/introduction/) - Thanks to Randy
 
 ## Lecture 17 Summary (Naive Bayes)
 
-	** Pre-work **
-	Please review Bayes Questions. 
+* Pre-work: Please review [Bayes Questions](https://github.com/ga-students/SF-DAT-20/blob/master/Resources%20for%20Students/BayesExamples.pdf).
+*  
