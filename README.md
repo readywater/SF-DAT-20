@@ -1,4 +1,22 @@
-# SF-DAT-20
+# SF-DAT-20		
+**Instructor: Hamed Hasheminia**
+
+
+Monday | Wednesday
+--- | ---
+-| 1/27: Introduction on Data Science part I
+2/1: Introduction on Data Science part II | 2/3: Basic Statistics - Review Session
+2/8: Linear Regression Lines - Part I | 2/10: Linear Regression Lines - Part II
+2/15: No Class - Presidents' Day | 2/17: Model Selection
+2/22: Missing Data and Imputation | 2/24: K-Nearest Neighbors
+2/29: Logistic Regression Part I | 3/2: Logistic Regression Part II
+3/7: Decision Trees Part I | 3/9: Decision Trees Part II
+3/14: Natural Language Processing | 3/16: Principal Component Analysis
+3/21: Time Series Models | 3/23: Databases and SQL
+3/28: Naive Bayes | 3/30: Course Review
+4/4: Final Project Presentations I | 4/6: Final Project Presentations II 
+
+
 
 ##Lecture 1 Summary (Introduction on Data Science part I)
 
@@ -23,7 +41,7 @@
 - Classification vs Clustering and Regression vs Dimentionality Reduction
 - Flexibility vs Interpretability
 - Different types of data (Cross-Sectional, Time-Series, Panel Data) 
-- Walkthrough Acquire& Parses with Pandas
+- Walkthrough Acquire & Parses with Pandas
 - HW 1 assigned - Due date Feb 8th at 6:30PM
 
 **Resources**
@@ -277,5 +295,29 @@ Name | Description
 
 ## Lecture 17 Summary (Naive Bayes)
 
-* Pre-work: Please review [Bayes Questions](https://github.com/ga-students/SF-DAT-20/blob/master/Resources%20for%20Students/BayesExamples.pdf).
-*  
+**Pre-Work**
+
+* Please review [Bayes Questions](https://github.com/ga-students/SF-DAT-20/blob/master/Resources%20for%20Students/BayesExamples.pdf).
+
+**Summary**
+
+* Naive Bayes Algorithm introduced
+* Guassian NB
+* Bernoulli NB
+* Multinomial NB
+* Advantages and Disadvantages of using NB
+
+**Resources**
+
+- [Lecture 17 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2017.pptx)
+- [Naive Bayes - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture17.ipynb) 
+- [Naive Bayes - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture17-Practice-Code.ipynb) 
+
+
+**Additional Resources**
+
+* High level overview of Naive Bayes - [Useful slides](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf)  
+* Easy-to-read lecture notes on [Naive Bayes](http://www.cs.colostate.edu/~cs545/fall13/dokuwiki/lib/exe/fetch.php?media=wiki%3A13_naive_bayes.pdf)
+* Naive Bayes model explained in more detail. [Harvard Unviersity - lecture notes](http://isites.harvard.edu/fs/docs/icb.topic540049.files/cs181_lec18_handout.pdf)
+* For more details on Naive Bayes classification, Wikipedia has two excellent articles ([Naive Bayes classifier](http://en.wikipedia.org/wiki/Naive_Bayes_classifier) and [Naive Bayes spam filtering](http://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)), and Cross Validated has a good [Q&A](http://stats.stackexchange.com/questions/21822/understanding-naive-bayes).
+* When applying Naive Bayes classification to a dataset with continuous features, it is better to use [GaussianNB](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html) rather than [MultinomialNB](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html). This [notebook](notebooks/14_types_of_naive_bayes.ipynb) compares their performances on such a dataset. Wikipedia has a short [description](https://en.wikipedia.org/wiki/Naive_Bayes_classifier#Gaussian_naive_Bayes) of Gaussian Naive Bayes, as well as an excellent [example](https://en.wikipedia.org/wiki/Naive_Bayes_classifier#Sex_classification) of its usage.
