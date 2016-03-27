@@ -4,8 +4,8 @@
 
 Monday | Wednesday
 --- | ---
--| 1/27: Introduction on Data Science part I
-2/1: Introduction on Data Science part II | 2/3: Basic Statistics - Review Session
+-| 1/27: Data Science - Introduction Part I
+2/1: Data Science - Introduction Part II | 2/3: Basic Statistics - Review Session
 2/8: Linear Regression Lines - Part I | 2/10: Linear Regression Lines - Part II
 2/15: No Class - Presidents' Day | 2/17: Model Selection
 2/22: Missing Data and Imputation | 2/24: K-Nearest Neighbors
@@ -18,7 +18,7 @@ Monday | Wednesday
 
 
 
-##Lecture 1 Summary (Introduction on Data Science part I)
+##Lecture 1 Summary (Data Science - Introduction Part I)
 
  - We talked about different roles of Data Scientists 
  - T-Shaped Data Scientists
@@ -37,7 +37,7 @@ Monday | Wednesday
  - [Intro Numpy - Solution Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Intro_Numpy_Solution.ipynb)
 
 
-## Lecture 2 Summary (Introduction on Data Science part II)
+## Lecture 2 Summary (Data Science - Introduction Part II)
 - Classification vs Clustering and Regression vs Dimentionality Reduction
 - Flexibility vs Interpretability
 - Different types of data (Cross-Sectional, Time-Series, Panel Data) 
