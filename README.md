@@ -10,7 +10,15 @@
  - Set up github accounts
  - set ipython notebook
  - Introduced Numpy
- 	
+ 
+ **Resources**
+ 
+  - [Lecture 1 - GitHub - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20GitHub.pptx) 
+ - [Lecture 1 - Introduction - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx)
+  - [Intro Numpy - Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Intro_Numpy.ipynb)
+  - [Intro Numpy - Solution Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Intro_Numpy_Solution.ipynb)
+
+
 ## Lecture 2 Summary (Introduction on Data Science part II)
 - Classification vs Clustering and Regression vs Dimentionality Reduction
 - Flexibility vs Interpretability
@@ -18,9 +26,32 @@
 - Walkthrough Acquire& Parses with Pandas
 - HW 1 assigned - Due date Feb 8th at 6:30PM
 
+ **Resources**
+ 
+  - [Lecture 2 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%202%20.pptx) 
+  - [Introduction to Numpy](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture2.ipynb) part II
+  - [Lecture 2 - Lab Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture2-Practice-Code.ipynb)
+  - [Lecture 2 - Lab Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture2-Practice-Solution.ipynb)
+
+**Additional Resources**
+
+Name | Description
+--- | ---
+[Official Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) | Wes & Company's selection of tutorials and lectures
+[Julia Evans Pandas Cookbook](https://github.com/jvns/pandas-cookbook) | Great resource with examples from weather, bikes and 311 calls
+[Learn Pandas Tutorials](https://bitbucket.org/hrojas/learn-pandas) | A great series of Pandas tutorials from Dave Rojas
+[Research Computing Python Data PYNBs](https://github.com/ResearchComputing/Meetup-Fall-2013/tree/master/python) | A super awesome set of python notebooks from a meetup-based course exclusively devoted to panda
+  
 ## Lecture 3 Summary (Basic Statistics - Review Session)
 - Measures of central tendency (Mean, Median, Mode, Quartiles, Percentiles)- Measures of Variability (IQR, Standard Deviation, Variance)- Skewness Coefficient - Kurtosis Coefficient- Boxplots- Bias vs Variance- Central Limit Theorem – Standard Error of Mean- Class/Dummy Variables
 - Walkthrough describing and visualizing data in Pandas
+
+ **Resources**
+ 
+  - [Lecture 3 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%203%20.pptx) 
+  - [Basic Statistics Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture3.ipynb) 
+  - [Basic Statistics Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture3-Practice-Code.ipynb)
+  - [Basic Statistics - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture3-Practice-Solution.ipynb)
 
 ## Lecture 4 Summary (Linear Regression Lines - Part I)
 - Linear Regression lines
@@ -31,12 +62,27 @@
 - intro on sklearn and searborn library
 - HW 2 assigned - Due date Feb 17th 2016 at 6:30PM
 
+ **Resources**
+ 
+  - [Lecture 4 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%204.pptx) 
+  - [Linear Regression - Part I - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture4.ipynb) 
+  - [Linear Regression - Part I - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture4-Practice-Code.ipynb)
+  - [Linear Regression - Part I - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture4-Practice-Solution.ipynb)
+
+
 ## Lecture 5 Summary (Linear Regression Lines - Part II)
 - Hypothesis test - test of significance on regression coefficients
 - p-value
 - Capture non-linearity using Linear Regression lines.
 - Different types of errors and R-squared
 - Interaction Effects
+
+ **Resources**
+ 
+  - [Lecture 5 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%205.pptx) 
+  - [Linear Regression - Part II - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture5.ipynb) 
+  - [Linear Regression - Part II - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture5-Practice-code.ipynb)
+  - [Linear Regression - Part II - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture5-Practice-Solution.ipynb)
 	
 ## Lecture 6 Summary (Model Selection)
 
@@ -46,6 +92,13 @@
 - Ridge and Lasso Regression
 - (Optional) Backward Selection, Forward Selection, All Subset Selection. (If you want to use these methods you need to use R)
 
+ **Resources**
+ 
+  - [Lecture 6 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%206.pptx) 
+  - [Model Selection - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture6.ipynb) 
+  - [Model Selection  - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture6-Practice-Code.ipynb) 
+  - [Model Selection  - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture6-Practice-Solution.ipynb)
+
 ## Lecture 7 Summary (Missing Data and Imputation)
 - Types of missing data (MCAR, MAR, NMAR)
 - Single imputation and their limitations
@@ -53,6 +106,12 @@
 - Hot deck imputation
 - multiple imputation
 
+ **Resources**
+ 
+  - [Lecture 7 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%207.pptx) 
+  - [Missing Data and Imputation - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture7.ipynb) 
+  - [Missing Data and Imputation  - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+  - [Missing Data and Imputation  - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture7-Practice-Solution.ipynb)
 
 ## Lecture 8 Summary (K-Nearest Neighbors)
 - Classification Problems
@@ -62,12 +121,26 @@
 - Limitations of KNN Algorithm
 - KNN algorithm for Regression
 
+ **Resources**
+ 
+  - [Lecture 8 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%208.pptx) 
+  - [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture8.ipynb) 
+  - [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture8-Practice-Code.ipynb) 
+  - [K-Nearest Neighbors  - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture8-Practice-Solution.ipynb)
+
 ## Lecture 9 Summary (Logistic Regression Part I)
 - Intro to Logistic Regression
 - Odds vs Probability
 - Using Logistic Regression to Make predictions
 - How one interprets coefficients of Logistic Regression model
 - Strength and weaknesses of Logistic Regression Model
+
+ **Resources**
+ 
+  - [Lecture 9 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%209.pptx) 
+  - [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture9.ipynb) 
+  - [Logistic Regression Part I - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture9-Practice-Code.ipynb) 
+  - [Logistic Regression Part I - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture9-Practice-Solutions.ipynb)
 
 ## Lecture 10 Summary (Logistic Regression Part II)
 - Unbalanced observations and Logistic Regression
@@ -77,6 +150,13 @@
 - Area Under Curve
 - How to compare classifciation algorithms
 
+ **Resources**
+ 
+  - [Lecture 10 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2010.pptx)
+  - [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture10.ipynb) 
+  - [Logistic Regression Part II - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture10-Practice-Code.ipynb) 
+  - [Logistic Regression Part II - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture10-Practice-Solution.ipynb)
+
 ## Lecture 11 Summary (Decision Trees Part I)
 - Decision Tree for Regression
 - Greedy Approach
@@ -84,11 +164,26 @@
 - Gini Index and Entropy index
 - Limitation of Simple Decision Tree
 
+ **Resources**
+ 
+  - [Lecture 11 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2011.pptx)
+  - [Decision Trees Part I - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture11.ipynb) 
+  - [Decision Trees Part I - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture11-Practice-Code.ipynb) 
+  - [Decision Trees Part I - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture11-Practice-Solution.ipynb)
+
 ## Lecture 12 Summary (Decision Trees Part II)
 - Bagging
 - Random Forest
 - Boosting
 - Tuning parameters for boosting and Random Forest
+
+ **Resources**
+ 
+  - [Lecture 12 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2012.pptx)
+  - [Decision Trees Part II - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture12.ipynb) 
+  - [Decision Trees Part II - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture12-Practice-Code.ipynb) 
+
+
 
 **Additional Resources**
 
@@ -103,6 +198,14 @@
 - NLP applications
 - Basic NLP practice
 - Stop words, bag-of-words, IF-DIF
+
+ **Resources**
+ 
+  - [Lecture 13 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2013.pptx)
+  - [Natural Language Processing - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture13.ipynb) 
+  - [Natural Language Processing - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture13-Practice-Code.ipynb) 
+  - [Natural Language Processing - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture13-Practice-Solution.ipynb)
+
 
 **Additional Resources**
 
@@ -123,6 +226,13 @@
 - Geometry of PCAs
 - Proportion of Variance Explained
 
+ **Resources**
+ 
+  - [Lecture 14 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2014.pptx)
+  - [Principal Component Analysis - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14.ipynb) 
+  - [Principal Component Analysis - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14-Practice-Code.ipynb) 
+  - [Principal Component Analysis - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture14-Practice-Solution.ipynb)
+
 **Additional Resources**
 
 * [This tutorial](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) on Principal Components Analysis (PCA) includes good refreshers on covariance and linear algebra
@@ -136,10 +246,17 @@
 - ARMA
 - ARIMA
 
+ **Resources**
+ 
+  - [Lecture 15 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2015.pptx)
+  - [Time Series Models - Lab Codes](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture15.ipynb) 
+  - [Time Series Models - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture15-Practice-Code.ipynb) 
+  - [Time Series Models - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture15-Practice-Solution.ipynb)
+
 **Additional Resources**
 
 * [This is a good resource](http://www.maths.qmul.ac.uk/~bb/TS_Chapter4_5.pdf) for AR models
-* [Seemingly easy to read book](http://www.statistik-mathematik.uni-wuerzburg.de/fileadmin/10040800/user_upload/time_series/the_book/2012-August-01-times.pdf) on time series. 
+* [Relatively easy to read book](http://www.statistik-mathematik.uni-wuerzburg.de/fileadmin/10040800/user_upload/time_series/the_book/2012-August-01-times.pdf) on time series. 
 
 ## Lecture 16 Summary (Databases and SQL)
 
@@ -147,7 +264,11 @@
 * Introduction to SQL and learn the Fundamental Growth Query.* Look at product engagement data of a fictional company and use FGQ to compute retention curves.* Apply convolution to the retention curve to project future active users.* Build a model to predict the retention likelihood of individual customers. 
 * **Thanks to Michael**
 
+**Resources**
 
+  - [Lecture 16 - Slides](https://github.com/ga-students/SF-DAT-20/blob/master/Lecture%20Notes-Slides/Lecture%2016.pdf) 
+  - [Databases and SQL - Practice Code](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture16.ipynb) 
+  - [Databases and SQL - Practice Solutions](https://github.com/ga-students/SF-DAT-20/blob/master/Code/Lecture16-Practice-Solution.ipynb)
 
 **Additional Resources**
 
